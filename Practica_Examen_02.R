@@ -25,7 +25,7 @@ glimpse(clientes)
 summary(clientes)
 names(clientes)
 
-head(metas)
+
 str(metas) 
 glimpse(metas)
 summary(metas)
